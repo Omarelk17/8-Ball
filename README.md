@@ -1,1 +1,28 @@
 # 8-Ball
+`<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="8ball.css">
+    <script src="8ball.script.js"></script>
+    <title>Magic 8 Ball</title>
+    <link rel="icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR26gYEa8GlGsnoyrjmcgRfz56gYbtP-pj15w&usqp=CAU" >
+</head>
+<body>
+    
+    <div class="center">
+        <label>Ask the 8 Ball &#x1F3B1;</label>
+        <br>
+        <input id="input">
+        <div class="result"></div>
+        <button id="submit">Submit</button>
+    </div>
+    <div class="box">
+        <div id="result"></div>
+ </div>
+    
+    
+    
+</body>
+</html>`
