@@ -1,0 +1,5 @@
+div{font-size: 75px;font-family:'Courier New', Courier, monospace;font-weight: bold;text-align: center; margin:auto; color:white}
+input{font-size: 28px}
+button{font-size: 40px}
+body{border: solid black 5px; width: 720px;margin: auto; background-color: black;}
+#result{color: yellow}
